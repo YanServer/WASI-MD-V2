@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐀𝐑𝐘𝐀𝐍𝐊𝐈𝐍𝐆👑",
+  caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐀𝐑𝐘𝐀𝐍𝐊𝐈𝐍𝐆👑",
   author: process.env.PACK_AUTHER || "𝐅𝐑𝐄𝐄",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑",
   botname: process.env.BOT_NAME || "𝐘𝐀𝐍𝐁𝐎𝐓𝐙",
